@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\nilin\EasyMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyMusic\app\libs\core.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="60771a7a1ed9537e36f3ffb78ceb1016886270b1">
+        <dex dex="D:\nilin\EasyMusic\app\build\intermediates\transforms\dex\debug\folders\1000\2\core_9778a99a229eda6f6430feb304bd441441729991\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyMusic\app\libs\library.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="5fbbd84981781c09a2f902f6e1755431d05014b4">
+        <dex dex="D:\nilin\EasyMusic\app\build\intermediates\transforms\dex\debug\folders\1000\2\library_39cdd9c001dbcc302a3cc6b9febfaaec24780737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyMusic\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\nilin\EasyMusic\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_59618a221fb4bcf9ac3273dcdcf5193203ec3530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyMusic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="c1b1b78ea0f74c16433583f9b357eeffd4679330">
+        <dex dex="D:\nilin\EasyMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c45b6fe51917576538c70880e7998a8aaa8e290a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nilin\EasyMusic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="4cdb12c190c65ed35eea22521f545b7a93f59a11">
+        <dex dex="D:\nilin\EasyMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_27c3862f0901a4eabcca365e44871b54b023f75c\classes.dex" />
+    </item>
+
+</items>

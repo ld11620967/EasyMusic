@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artistbrower.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\artistbrower.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playqueue.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\playqueue.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_scan_fragment.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\menu_scan_fragment.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\albumbrower.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\albumbrower.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folderbrower_listitem.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\folderbrower_listitem.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_favorite.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\frame_favorite.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\frame_main.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_content.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\sliding_content.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lrc_dialog.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\lrc_dialog.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\albumbrower_listitem.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\albumbrower_listitem.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\frame_menu.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lyric_line.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\lyric_line.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t9_keyboard.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\t9_keyboard.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_background.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\menu_background.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folderbrower.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\folderbrower.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchlist_item.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\searchlist_item.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nowplaying.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\nowplaying.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_background_fragment.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\menu_background_fragment.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main1.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\frame_main1.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_trans_layout.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\viewpager_trans_layout.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_handle.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\sliding_handle.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_gridview_item.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\main_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sleep_time.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\sleep_time.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musiclist_item.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\musiclist_item.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nested_fragment.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\nested_fragment.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_scan.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\menu_scan.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music_search.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\music_search.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artistbrower_listitem.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\artistbrower_listitem.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\menu_setting.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\background_gridview_item.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\background_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu1.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\frame_menu1.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mymusic.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\mymusic.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting_fragment.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\layout\\menu_setting_fragment.xml"
+    }
+]

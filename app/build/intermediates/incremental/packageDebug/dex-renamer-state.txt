@@ -1,0 +1,7 @@
+#Sat Jul 23 10:21:07 CST 2016
+base.0=D\:\\nilin\\EasyMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c45b6fe51917576538c70880e7998a8aaa8e290a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\nilin\\EasyMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_27c3862f0901a4eabcca365e44871b54b023f75c\\classes.dex
+base.1=D\:\\nilin\\EasyMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_27c3862f0901a4eabcca365e44871b54b023f75c
+file.0=D\:\\nilin\\EasyMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c45b6fe51917576538c70880e7998a8aaa8e290a\\classes.dex

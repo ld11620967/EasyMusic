@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dialog_img_background.jpg",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-nodpi\\dialog_img_background.jpg"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dialog_frm_background.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-nodpi\\dialog_frm_background.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\top_shadow.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-nodpi\\top_shadow.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\list_selector.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
+    }
+]

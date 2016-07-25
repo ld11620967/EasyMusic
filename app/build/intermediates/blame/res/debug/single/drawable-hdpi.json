@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_favorites.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_favorites.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_finish_btn_bg_normal.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\scan_finish_btn_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_folder_plus.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_folder_plus.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_edit_4.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_edit_4.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\volume_seekbar_thumb_default.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\volume_seekbar_thumb_default.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_items.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_items.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playcontrol_bg.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\playcontrol_bg.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_ico_checked.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\skin_ico_checked.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_favourite_checked.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_favourite_checked.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voicelayout_left_bg_f.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\voicelayout_left_bg_f.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_playing_mode_repeat_all.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_playing_mode_repeat_all.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_list_reapeat.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_list_reapeat.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_background_top.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_background_top.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nc_nextsong_pressed.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\nc_nextsong_pressed.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nc_nextsong_normal.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\nc_nextsong_normal.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_change_background.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_change_background.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playback_seekbar_thumb_pressed.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\playback_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_flaying_favorite.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_flaying_favorite.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_playing_mode_shuffle.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_playing_mode_shuffle.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_switch_9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_switch_9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_exit.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_exit.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_switch.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_switch.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sliding_bg.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\sliding_bg.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_img_item_background_normal.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\skin_img_item_background_normal.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_finish_btn_bg_pressed.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\scan_finish_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_pause_state.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\list_pause_state.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_menu_point.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_point.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_next.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\player_next.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\image_splash_background.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\image_splash_background.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_sleep_mode.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_sleep_mode.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voice.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_next_normal.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_next_normal.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_hide_pressed.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_hide_pressed.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nc_pause_normal.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\nc_pause_normal.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_edit_5.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_edit_5.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_edit_8.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_edit_8.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_play.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\player_play.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\input_background.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\input_background.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_hide_normal.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_hide_normal.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_preferences_dark.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_preferences_dark.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_play_normal.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_play_normal.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_edit_2.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_edit_2.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_edit_7.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_edit_7.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_backspace_normal.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_backspace_normal.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progresslayout_bg.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\progresslayout_bg.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toggle_button_off.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\toggle_button_off.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_playing_mode_repeat_cur.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_playing_mode_repeat_cur.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_sequence.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_sequence.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_single_repeat.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_single_repeat.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_login_panel_background.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\top_login_panel_background.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sleep_button_pressed.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\sleep_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pause.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\player_pause.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\volume_sound.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\volume_sound.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_album_background.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\img_album_background.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\volume_mute.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\volume_mute.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_img_item_background_selected.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\skin_img_item_background_selected.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_search.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voicelayout_left_bg_normal.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\voicelayout_left_bg_normal.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_playing_mode_normal.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_playing_mode_normal.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_local_music.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_local_music.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nc_pause_pressed.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\nc_pause_pressed.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_album_plus.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_album_plus.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nc_previoussong_normal.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\nc_previoussong_normal.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_bkg_common_pressed.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_bkg_common_pressed.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nc_previoussong_pressed.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\nc_previoussong_pressed.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_artist_plus.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_artist_plus.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\album_border_large.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\album_border_large.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_pause_normal.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_pause_normal.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_shuffle.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_shuffle.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_backspace_pressed.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_backspace_pressed.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\volume_seekbar_thumb_pressed.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\volume_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sleep_button.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\sleep_button.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_edit_3.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_edit_3.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_edit_6.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_edit_6.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_search_dark.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_search_dark.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_favorite.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_favorite.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pre.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\player_pre.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_bkg_common_normal.9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_bkg_common_normal.9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_edit_9.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\keyboard_edit_9.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_favourite_normal.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_favourite_normal.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_play_state.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\list_play_state.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_favorite_on.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\icon_favorite_on.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toggle_button_on.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\toggle_button_on.png"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playback_seekbar_thumb_default.png",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable-hdpi\\playback_seekbar_thumb_default.png"
+    }
+]

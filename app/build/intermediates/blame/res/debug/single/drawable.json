@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_backspace.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\keyboard_backspace.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed_blue_backround.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\button_pressed_blue_backround.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volume_seekbar_selector.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\volume_seekbar_selector.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nc_nextsong.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\nc_nextsong.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_selector_bottom.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\menu_setting_selector_bottom.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_selector.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\toggle_button_selector.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep_btn_selector.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\sleep_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_music_btn.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\selector_music_btn.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_bkg_common.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\keyboard_bkg_common.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_stroke.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\menu_setting_stroke.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_scan_btn.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\selector_scan_btn.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_item_selector.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\gridview_item_selector.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_seekbar_thumb.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\playback_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skin_img_item_background.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\skin_img_item_background.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_selector_middle.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\menu_setting_selector_middle.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_seekbar.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\playback_seekbar.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nc_previoussong.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\nc_previoussong.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volume_seekbar_thumb_selector.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\volume_seekbar_thumb_selector.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_hiden.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\keyboard_hiden.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_seekbar2.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\playback_seekbar2.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_selector_top.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\menu_setting_selector_top.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nc_pause.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\nc_pause.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_selector.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\menu_setting_selector.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_volume_set.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\selector_volume_set.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadowright.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\shadowright.xml"
+    },
+    {
+        "merged": "D:\\nilin\\EasyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_backround_light.xml",
+        "source": "D:\\nilin\\EasyMusic\\app\\src\\main\\res\\drawable\\button_backround_light.xml"
+    }
+]
